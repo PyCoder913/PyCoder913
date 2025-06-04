@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PyCoder913 (Rajdeep Pathak)
+- 👋 Hi, I’m Rajdeep Pathak, currently an M.Sc. student at IIT Hyderabad
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Machine Learning with Python & Convolutional Neural Networks
-- 💞️ I’m looking to collaborate on any super-interesting project
+- 💞️ I will be joining Sorbonne University, Paris, for my PhD in Statistical Machine Learning in September 2025
 - 📫 How to reach me: Email: pathakrajdeep91@gmail.com
 
 <!---
