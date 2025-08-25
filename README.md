@@ -7,17 +7,7 @@
 ---
 
 ## About Me
-I am a deep learning researcher with experience on privacy-preserving data techniques, synthetic data generation, and membership inference attacks. I have strong technical expertise in machine learning, data science, GPU computing, and advanced mathematical analysis.
-
----
-
-## Research Interests
-- Statistical Machine Learning
-- Spatiotemporal Deep Learning 
-- Privacy-preserving Data Techniques  
-- Synthetic Data Generation  
-- Membership Inference Attacks  
-- Advanced Statistical & Mathematical Methods 
+I am currently pursuing a Ph.D. in Mathematics and Statistics, with previous experience in privacy-preserving data techniques, synthetic data generation, and membership inference attacks. I have strong technical expertise in machine learning, data science, GPU computing, and advanced mathematical analysis.
 
 ---
 
