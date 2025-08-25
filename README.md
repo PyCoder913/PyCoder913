@@ -1,7 +1,36 @@
-- 👋 Hi, I’m Rajdeep Pathak, currently an M.Sc. student at IIT Hyderabad
-- 👀 I’m interested in Data Science & Machine Learning
-- 💞️ I will be joining Sorbonne University, Paris, for my PhD in Statistical Machine Learning in September 2025
-- 📫 How to reach me: Email: pathakrajdeep91@gmail.com
+# Hi, I’m Rajdeep Pathak 👋
+
+- Incoming PhD Scholar at Sorbonne Université, Paris (ForeML Lab, SUAD, and SCAI Paris)
+- Completed M.Sc. in Mathematics & Computing (2025) from IIT Hyderabad
+- Completed B.Sc. (Honors) in Mathematics (2023) from Jadavpur University, Kolkata
+
+---
+
+## About Me
+I am a deep learning researcher with experience on privacy-preserving data techniques, synthetic data generation, and membership inference attacks. I have strong technical expertise in machine learning, data science, GPU computing, and advanced mathematical analysis.
+
+---
+
+## Research Interests
+- Statistical Machine Learning
+- Spatiotemporal Deep Learning 
+- Privacy-preserving Data Techniques  
+- Synthetic Data Generation  
+- Membership Inference Attacks  
+- Advanced Statistical & Mathematical Methods 
+
+---
+
+## Contact Me
+Email: [pathakrajdeep91@gmail.com](mailto:pathakrajdeep91@gmail.com), [pathak.rajdeep@alumni.iith.ac.in](mailto:pathak.rajdeep@alumni.iith.ac.in), [ma23mscst11013@iith.ac.in](mailto:ma23mscst11013@iith.ac.in)  
+Portfolio: [Personal Website](https://sites.google.com/view/rajdeeppathak/)  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/rajdeep-pathak/)
+
+---
+
+I’m always open to research discussions, collaborations, and academic/technical inquiries.  
+Feel free to connect!
+
 
 <!---
 PyCoder913/PyCoder913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
