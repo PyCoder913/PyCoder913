@@ -1,6 +1,6 @@
 # Hi, I’m Rajdeep Pathak 👋
 
-- Incoming PhD Scholar at Sorbonne Université, Paris (ForeML Lab, SUAD, and SCAI Paris)
+- PhD Scholar at Sorbonne Université, Paris (ForeML Lab, SUAD, and SCAI Paris)
 - Completed M.Sc. in Mathematics & Computing (2025) from IIT Hyderabad
 - Completed B.Sc. (Honors) in Mathematics (2023) from Jadavpur University, Kolkata
 
@@ -12,7 +12,7 @@ I am currently pursuing a Ph.D. in Mathematics and Statistics, with previous exp
 ---
 
 ## Contact Me
-Email: [pathakrajdeep91@gmail.com](mailto:pathakrajdeep91@gmail.com), [pathak.rajdeep@alumni.iith.ac.in](mailto:pathak.rajdeep@alumni.iith.ac.in), [ma23mscst11013@iith.ac.in](mailto:ma23mscst11013@iith.ac.in)  
+Email: [pathakrajdeep91@gmail.com](mailto:pathakrajdeep91@gmail.com), [rajdeep.pathak@sorbonne.ae](mailto:rajdeep.pathak@sorbonne.ae), [pathak.rajdeep@alumni.iith.ac.in](mailto:pathak.rajdeep@alumni.iith.ac.in), 
 Portfolio: [Personal Website](https://sites.google.com/view/rajdeeppathak/)  
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rajdeep-pathak/)
 
