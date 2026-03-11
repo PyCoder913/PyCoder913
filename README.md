@@ -12,7 +12,7 @@ I am currently pursuing a Ph.D. in Mathematics and Statistics, with previous exp
 ---
 
 ## Contact Me
-Email: [pathakrajdeep91@gmail.com](mailto:pathakrajdeep91@gmail.com), [rajdeep.pathak@sorbonne.ae](mailto:rajdeep.pathak@sorbonne.ae), [pathak.rajdeep@alumni.iith.ac.in](mailto:pathak.rajdeep@alumni.iith.ac.in), 
+Email: [pathakrajdeep91@gmail.com](mailto:pathakrajdeep91@gmail.com), [rajdeep.pathak@sorbonne.ae](mailto:rajdeep.pathak@sorbonne.ae), [pathak.rajdeep@alumni.iith.ac.in](mailto:pathak.rajdeep@alumni.iith.ac.in)
 Portfolio: [Personal Website](https://sites.google.com/view/rajdeeppathak/)  
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rajdeep-pathak/)
 
